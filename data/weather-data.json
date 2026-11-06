@@ -1,0 +1,19 @@
+{
+  "favorites": [
+    "Kigali",
+    "Nairobi"
+  ],
+  "history": [
+    {
+      "city": "Nairobi",
+      "searchedAt": "2026-11-06T10:44:52.533Z"
+    },
+    {
+      "city": "Kigali",
+      "searchedAt": "2026-11-06T10:44:39.229Z"
+    }
+  ],
+  "settings": {
+    "units": "celsius"
+  }
+}
